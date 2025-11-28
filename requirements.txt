@@ -1,3 +1,5 @@
 tensorflow
 scipy
 streamlit
+opencv-python
+matplotlib
